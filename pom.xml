@@ -8,5 +8,18 @@
     <artifactId>java_programs_edureka</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <repositories>
+        <repository>
+            <id>myMavenRepo.read</id>
+            <url>https://mymavenrepo.com/repo/IKtvJeaA4hWNLyrtwOo2/</url>
+        </repository>
+    </repositories>
+
+    <distributionManagement>
+        <repository>
+            <id>myMavenRepo.write</id>
+            <url>https://mymavenrepo.com/repo/HQegagdip2Mpuj8mRpdJ/</url>
+        </repository>
+    </distributionManagement>
     
 </project>
