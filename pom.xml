@@ -21,6 +21,7 @@
             <id>myMavenRepo.write</id>
             <url>https://mymavenrepo.com/repo/HQegagdip2Mpuj8mRpdJ/</url>
         </repository>
+
     </distributionManagement>
     
 </project>
