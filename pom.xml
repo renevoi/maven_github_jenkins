@@ -22,6 +22,7 @@
             <url>https://mymavenrepo.com/repo/HQegagdip2Mpuj8mRpdJ/</url>
         </repository>
 
+        <!--somethind comment-->
     </distributionManagement>
     
 </project>
